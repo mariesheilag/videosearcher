@@ -1,0 +1,2 @@
+# videosearcher
+Video Searcher configuration
